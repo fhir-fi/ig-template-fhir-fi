@@ -7,4 +7,6 @@ Package id: `fhir.fi.template`.
 
 Use it by stating 
 
-`template = https://github.com/fhir-fi/ig-template-fhir-fi#current`
+`template = https://github.com/fhir-fi/ig-template-fhir-fi`
+
+in your `ig.ini` file.
