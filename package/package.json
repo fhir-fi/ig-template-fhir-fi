@@ -8,6 +8,6 @@
   "canonical": "https://github.com/fhir-fi/ig-template-fhir-fi",
   "base": "https://github.com/fhir-fi/ig-template-hl7-affiliate",
   "dependencies": {
-    "fhir.base.template": "current"
+    "https://github.com/fhir-fi/ig-template-hl7-affiliate": "current"
   }
 }
