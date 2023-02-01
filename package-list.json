@@ -12,12 +12,21 @@
       "current": true
     },
     {
+      "version": "0.1.0",
+      "desc": "Second release",
+      "path": "https://github.com/fhir-fi/ig-template-fhir-fi/0.1.0",
+      "status": "release",
+      "sequence": "Publications",
+      "current": true,
+      "date": "2023-02-01"
+    },
+    {
       "version": "0.0.1",
       "desc": "First release",
       "path": "https://github.com/fhir-fi/ig-template-fhir-fi/0.0.1",
       "status": "release",
       "sequence": "Publications",
-      "current": true,
+      "current": false,
       "date": "2023-02-01"
     }
   ]
