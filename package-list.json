@@ -1,5 +1,5 @@
 ﻿{
-  "package-id": "fhir.fi.template",
+  "package-id": "hl7.fi.fhir.template",
   "title": "HL7 Finland FHIR IG Template",
   "canonical": "https://github.com/fhir-fi/ig-template-fhir-fi",
   "introduction": "Template for FHIR implementation guides published by HL7 Finland. Based on the hl7.affiliate.template.",
@@ -12,22 +12,13 @@
       "current": true
     },
     {
-      "version": "0.1.0",
-      "desc": "Second release",
-      "path": "https://github.com/fhir-fi/ig-template-fhir-fi/0.1.0",
+      "version": "0.1.1",
+      "desc": "First release",
+      "path": "https://github.com/fhir-fi/ig-template-fhir-fi",
       "status": "release",
       "sequence": "Publications",
       "current": true,
-      "date": "2023-02-01"
-    },
-    {
-      "version": "0.0.1",
-      "desc": "First release",
-      "path": "https://github.com/fhir-fi/ig-template-fhir-fi/0.0.1",
-      "status": "release",
-      "sequence": "Publications",
-      "current": false,
-      "date": "2023-02-01"
+      "date": "2023-02-02"
     }
   ]
 }

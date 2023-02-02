@@ -1,9 +1,7 @@
 # ig-template-fhir-fi
-Template for FHIR implementation guides published by HL7 Finland
+Template for FHIR implementation guides published by HL7 Finland.
 
-Based on the [hl7.affiliate.template](https://github.com/fhir-fi/ig-template-hl7-affiliate).
-
-Package id: `fhir.fi.template`.
+Package id: `hl7.fi.fhir.template`.
 
 Use it by stating 
 

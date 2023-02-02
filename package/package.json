@@ -1,9 +1,9 @@
 {
-  "name": "fhir.fi.template",
-  "version": "0.1.0",
+  "name": "hl7.fi.fhir.template",
+  "version": "0.1.1",
   "type": "fhir.template",
   "license": "CC0-1.0",
-  "description": "Template for FHIR implementation guides published by HL7 Finland. Based on the hl7.affiliate.template, but not depending on it.",
+  "description": "Template for FHIR implementation guides published by HL7 Finland.",
   "author": "http://hl7.fi/fhir",
   "canonical": "https://github.com/fhir-fi/ig-template-fhir-fi",
   "base": "fhir.base.template",
