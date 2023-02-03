@@ -12,6 +12,12 @@
   */
 }
 
+.navbar-inverse .navbar-nav > .open > a,
+.navbar-inverse .navbar-nav > .open > a:hover,
+.navbar-inverse .navbar-nav > .open > a:focus {
+  color: var(--navbar-bg-color);
+}
+
 #family-logo {
   padding-right: 1em;
 }
