@@ -1,6 +1,6 @@
 {
   "name": "hl7.fi.fhir.template",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "type": "fhir.template",
   "license": "CC0-1.0",
   "description": "Template for FHIR implementation guides published by HL7 Finland.",
