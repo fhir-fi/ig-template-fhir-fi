@@ -18,6 +18,32 @@
   color: var(--navbar-bg-color);
 }
 
+.nav-tabs {
+  border-bottom-color: var(--navbar-bg-color);
+}
+
+.nav-tabs > li > a {
+  border-color: transparent;
+}
+
+.nav-tabs > li.active > a {
+  border-color: var(--navbar-bg-color);
+  border-bottom-color: transparent;
+}
+
+.nav-tabs > li.active > a,
+.nav-tabs > li.active > a:hover,
+.nav-tabs > li.active > a:focus {
+  color: var(--navbar-bg-color);
+}
+
 #family-logo {
   padding-right: 1em;
+}
+
+pre.json,
+pre.xml,
+pre.rdf {
+  width: auto;
+  overflow: scroll !important;
 }

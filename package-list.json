@@ -12,11 +12,19 @@
       "current": true
     },
     {
+      "version": "1.0.0",
+      "desc": "Fix tab colors, show more of pre-formatted content",
+      "path": "https://github.com/fhir-fi/ig-template-fhir-fi",
+      "status": "release",
+      "current": true,
+      "date": "2023-03-30"
+    },
+    {
       "version": "0.1.3",
       "desc": "Add HL7 Finland logo",
       "path": "https://github.com/fhir-fi/ig-template-fhir-fi",
       "status": "release",
-      "current": true,
+      "current": false,
       "date": "2023-02-14"
     },
     {
