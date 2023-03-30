@@ -40,3 +40,10 @@
 #family-logo {
   padding-right: 1em;
 }
+
+pre.json,
+pre.xml,
+pre.rdf {
+  width: auto;
+  overflow: scroll !important;
+}
