@@ -47,3 +47,7 @@ pre.rdf {
   width: auto;
   overflow: scroll !important;
 }
+
+div#segment-content > div.container > div.row > div.inner-wrapper > div.col-12 > div[markdown="1"] {
+  max-width: 100%;
+}
