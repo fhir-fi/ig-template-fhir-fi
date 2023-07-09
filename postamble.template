@@ -1,22 +1,6 @@
   <!-- ==============END CONTENT END CONTENT=================== -->
 
 <p></p>
-
-<h3 id="build-snapshots-on-buildfhirorg">Build Snapshots on build.fhir.org</h3>
-<p>In addition to versions published here, each change to the implementation guide is automatically
-built and published in the build.fhir.org infrastructure. You can locate the built snapshot with
-the branch name. For instance, the latest commit to the <code class="language-plaintext highlighter-rouge">master</code> branch is published at
-<a href="https://build.fhir.org/ig/fhir-fi/finnish-smart/branches/master">https://build.fhir.org/ig/fhir-fi/finnish-smart/branches/master</a>.</p>
-
-<p>You can also browse the <a href="https://fhir.github.io/auto-ig-builder/builds.html">list of all IG builds</a>.</p>
-
-<p>Similarly the debug info related to the build can be found with the branch name. The build log of
-the latest commit to the <code class="language-plaintext highlighter-rouge">master</code> branch is at
-<a href="https://build.fhir.org/ig/fhir-fi/finnish-smart/branches/master/build.log">https://build.fhir.org/ig/fhir-fi/finnish-smart/branches/master/build.log</a>.</p>
-
-<p>You can also track the build info at the
-<a href="https://chat.fhir.org/#narrow/stream/179297-committers.2Fnotification/topic/ig-build/">committers/notification</a>
-channel on the <a href="https://chat.fhir.org">chat.fhir.org</a> Zulip forum.</p>
  </div>
 
     </div>  <!-- /inner-wrapper -->
