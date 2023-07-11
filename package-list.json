@@ -12,11 +12,19 @@
       "current": true
     },
     {
+      "version": "1.0.2",
+      "desc": "Include history templates",
+      "path": "https://github.com/fhir-fi/ig-template-fhir-fi",
+      "status": "release",
+      "current": true,
+      "date": "2023-07-11"
+    },
+    {
       "version": "1.0.1",
       "desc": "Constrain examples to container width",
       "path": "https://github.com/fhir-fi/ig-template-fhir-fi",
       "status": "release",
-      "current": true,
+      "current": false,
       "date": "2023-04-27"
     },
     {
