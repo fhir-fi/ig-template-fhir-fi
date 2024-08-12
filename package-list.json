@@ -12,12 +12,28 @@
       "current": true
     },
     {
+      "version": "1.0.5",
+      "desc": "Remove template files",
+      "path": "https://github.com/fhir-fi/ig-template-fhir-fi",
+      "status": "release",
+      "current": true,
+      "date": "2024-08-12"
+    },
+    {
+      "version": "1.0.4",
+      "desc": "Remove assets for history pages",
+      "path": "https://github.com/fhir-fi/ig-template-fhir-fi",
+      "status": "release",
+      "current": false,
+      "date": "2024-05-10"
+    },
+    {
       "version": "1.0.3",
       "desc": "Include history templates",
       "path": "https://github.com/fhir-fi/ig-template-fhir-fi",
       "status": "release",
-      "current": true,
-      "date": "20234-01-21"
+      "current": false,
+      "date": "2024-01-21"
     },
     {
       "version": "1.0.2",
